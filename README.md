@@ -1,6 +1,6 @@
 <!-- 👋 INTRO -->
 ## 👋 Hi, I’m Derrick Ngari
-### 💻 Aspiring Software Developer | AI Enthusiast | SaaS Builder
+### 💻 Software Engineer | AI Enthusiast | SaaS Builder
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&width=435&lines=Building+modern+web+applications...;Learning+AI+and+Machine+Learning...;Developing+scalable+SaaS+solutions)
 
 🌱 Currently mastering the **MERN Stack** (MongoDB, Express, React, Node.js) and exploring **Database Design**, **App Development**, and **AI**.<br/>
